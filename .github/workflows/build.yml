@@ -143,6 +143,7 @@ jobs:
           - rock-5b-plus
           - rock-5c
           - rock-5d
+          - tcn200-rk3588s
           - turing-rk1
         flavor:
           - desktop
